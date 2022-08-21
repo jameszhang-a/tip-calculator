@@ -31,7 +31,8 @@ Here's a walkthrough of implemented user stories:
 ![CleanShot 2022-08-21 at 15 05 40](https://user-images.githubusercontent.com/83667312/185814681-4f82a5e3-28cf-4c31-afe0-52b541aae41d.gif)
 
 
-GIF created with [Cleanshot]([http://www.cockos.com/licecap/](https://cleanshot.com/?ref=cloud)).
+GIF created with [Cleanshot](https://cleanshot.com/?ref=cloud).
+
 
 ## Notes
 
