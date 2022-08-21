@@ -37,6 +37,7 @@ GIF created with [Cleanshot](https://cleanshot.com/?ref=cloud).
 ## Notes
 
 - Challenges include working with Storyboard, more used to doings things programmatically
+- Building a custom keyboard to support numpad styling
 
 ## License
 
